@@ -253,7 +253,7 @@ header nav ul a:hover::before {
     font-size: 22px !important;
   }
 }
-.section-one .text .link {
+/* .section-one .text .link {
   font-size: 25px;
   background-color: var(--main-color);
   color: var(--main-color-alt);
@@ -314,7 +314,7 @@ header nav ul a:hover::before {
   height: 100%;
   right: 0px;
   border-radius: 0%;
-}
+} */
 .section-one .text .icone a i {
   width: 100%;
   padding: 15px;
